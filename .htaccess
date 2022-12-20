@@ -1,1 +1,3 @@
-Redirect 301 / https://iperezav.github.io
+RewriteEngine On
+
+Redirect /index.html https://iperezav.github.io
